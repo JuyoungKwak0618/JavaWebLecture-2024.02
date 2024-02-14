@@ -25,4 +25,3 @@
 	<button onclick="location.href='/jw/ch06/cal2'">처음으로</button>
 </body>
 </html>
-..

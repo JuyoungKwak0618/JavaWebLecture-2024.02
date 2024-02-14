@@ -32,4 +32,3 @@ public class Ex01_RequestMethod2 extends HttpServlet {
 	}
 
 }
-..

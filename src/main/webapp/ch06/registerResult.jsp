@@ -23,4 +23,3 @@
 	<button onclick="location.href='/jw/ch06/register'">재실행</button>
 </body>
 </html>
-..
