@@ -37,7 +37,7 @@
 								<tr>
 									<td><label class="col-form-label">본문</label></td>
 									<td><textarea name="content" id="content" rows="10" class="form-control">
-										이 영역이 CK Editor가 작동하는 영역입니다.
+										이 영역이 CK Editor가 작동하는 영역입니다
 									</textarea></td>
 								</tr>
 								<tr>
